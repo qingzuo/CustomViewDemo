@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zuo/dev/android/AndroidStudioProjects/CustomViewDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58c24613be5a95c75e7aa3c215120c5209f79f01">
+        <dex dex="/home/zuo/dev/android/AndroidStudioProjects/CustomViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_1e5d50e08234769b1e21ae81a66e81b282f82764/classes.dex" />
+    </item>
+    <item
+        jar="/home/zuo/dev/android/AndroidStudioProjects/CustomViewDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f75213d4757afa42ea9122ffeb141a84326f258">
+        <dex dex="/home/zuo/dev/android/AndroidStudioProjects/CustomViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_195ae5b5f4ea173f3499f814e90440a7480a125b/classes.dex" />
+    </item>
+    <item
+        jar="/home/zuo/dev/android/AndroidStudioProjects/CustomViewDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e87b5905b899786f15fc9c16e13e0e46d95968">
+        <dex dex="/home/zuo/dev/android/AndroidStudioProjects/CustomViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_60cec289d5882768b4f6e9690cf4b3043e1993da/classes.dex" />
+    </item>
+
+</items>
